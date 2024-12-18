@@ -3,6 +3,3 @@
 -- 3 select * and total = price * quantity 
 UPDATE sales
 SET total = price * quantity
-
-
--- 6 group by category, find the sum of total per category
